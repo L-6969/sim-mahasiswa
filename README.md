@@ -3,9 +3,9 @@
 Aplikasi console-based untuk mengelola data mahasiswa
 pada Program Studi Sistem Informasi.
 ## Identitas
-- Nama: [Nama Lengkap]
-- NIM: [NIM Anda]
-- Kelas: [Kelas Praktikum]
+- Nama: [Muhammad Alamsyah]
+- NIM: [20241320030]
+- Kelas: [Praktikum Pemograman Modern]
 ## Fitur
 - Tambah data mahasiswa (NIM, nama, prodi, angkatan, IPK)
 - Tampilkan seluruh data dalam tabel
